@@ -1,7 +1,6 @@
-console.log("tacos");
+
 
 //files to cache
-//Uncomment the lines below
 const FILES_TO_CACHE = [
     '/',
     '/index.html',
